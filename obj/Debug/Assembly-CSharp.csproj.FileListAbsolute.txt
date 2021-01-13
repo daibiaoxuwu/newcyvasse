@@ -1,0 +1,2 @@
+D:\workspace\unity\Chess\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\workspace\unity\Chess\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
